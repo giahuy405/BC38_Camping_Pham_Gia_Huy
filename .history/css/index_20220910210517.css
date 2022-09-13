@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+html{
+
+}
+header{
+    background-color: #f8e1db;
+}
+nav ul{
+    list-style: none;
+}
+nav li{
+    display: inline;
+}
+nav a{
+    text-decoration: none;
+}

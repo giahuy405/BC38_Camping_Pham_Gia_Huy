@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+html{
+
+}
+header{
+    background-color: #f8e1db;
+    padding: 10px 0;
+}
+nav{
+    margin-top: 10px;
+}
+nav ul{
+    list-style: none;
+}
+nav li{
+    display: inline;
+    margin-right: 45px;
+}
+nav a{
+    text-decoration: none;
+    color: #3a3735;
+}
+nav a:hover{
+    color: red;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.carousel{
+    background-image: url(../img/BG.png);
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.activities{
+    padding-top: 65px;
+    text-align: center;
+}

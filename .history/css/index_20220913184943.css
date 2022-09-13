@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header__items{
+    width: 90%;
+    margin: 0 auto;
+}
+header{
+    background-color: #f8e1db;
+}
+nav{
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+nav ul{
+    list-style: none;
+}
+nav li{
+    display: inline;
+    margin-right:30px;
+}
+nav a{
+    text-decoration: none;
+    color: #43403c;
+}
