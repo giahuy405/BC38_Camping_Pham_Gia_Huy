@@ -8,6 +8,7 @@
     margin: 0 auto;
 }
 header{
+    padding-top: 15px;
     background-color: #f8e1db;
 }
 nav{
@@ -31,9 +32,11 @@ nav a:hover{
 .clear{
     clear: both;
 }
-.carousel img{
-    height: 600px;
-    width: 100%;
+.carousel{
+    height: 700px;
+    background-image: url(../img/BG.png);
+    background-position: center;
+    background-size: 100%;
 }
 .service{
     text-align: center;
